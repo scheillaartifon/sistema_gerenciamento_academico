@@ -1,7 +1,8 @@
 # sistema_gerenciamento_academico
 Atividade realizada para a matéria de Raciocínio Computacional que envolverá o cadastro de informações relacionadas aos estudantes, disciplinas, professores e turmas.
 
-# Funcionalidades obrigatórias:
+----
+### Funcionalidades obrigatórias:
 1) O sistema deverá oferecer a possibilidade de cadastro dos seguintes dados:
 * estudante;
 * disciplina;
