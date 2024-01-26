@@ -24,4 +24,5 @@ posteriormente em um arquivo JSON, de forma que, ao reiniciar a aplicação, pos
 ### Para rodar na máquina, instalar:
 [Pycharm](https://www.jetbrains.com/pycharm/download/?section=windows)https://www.jetbrains.com/pycharm/download/?section=windows
 
+----
 ![RC](https://github.com/scheillaartifon/sistema_gerenciamento_academico/assets/47155635/d02f35b5-07c9-4bc7-85b2-0d6a7176655b)
